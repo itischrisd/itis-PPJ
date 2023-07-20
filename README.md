@@ -11,4 +11,4 @@ The following code is distributed under the [GPLv3](./LICENSE).
 
 ---
 
-If you need some help, feel free to reach out to me and/or create a pull request. Keep in mind that code in this repository is strictly basic material, hence it may contain some suboptimal solutions. It was intended to be that way by the course program and is kept here as-is.
+If you need some help, feel free to reach out to me. Keep in mind that code in this repository is strictly basic material, hence it may contain some suboptimal solutions. It was intended to be that way by the course program and is kept here as-is.
