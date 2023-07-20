@@ -1,0 +1,21 @@
+package EXERCISES.LABO10.zad4zad5;
+
+
+import EXERCISES.LABO10.zad3.Tree;
+
+public class FruitTree extends Tree {
+
+    private String fruitName;
+
+    public FruitTree(int height, String fruitName) {
+        super(false, height, "lisciaste");
+        this.fruitName = fruitName;
+    }
+
+    @Override
+    public String toString() {
+        return super.toString() + "FruitTree{" +
+                "fruitName='" + fruitName + '\'' +
+                '}';
+    }
+}
