@@ -5,7 +5,7 @@
   PPJ (Programming Fundamentals in Java)
 </h1>
 
-Repository that contains solutions to the exercises for the PPJ (Programming Fundamentals in Java) Java practical classes, taught by Le Tuong during studies on [PJAIT](https://www.pja.edu.pl/en/).
+Repository that contains solutions to the exercises for the PPJ (Foundations of Java Programming) Java practical classes, taught by Le Tuong during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
 
