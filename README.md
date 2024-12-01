@@ -2,7 +2,7 @@
   <div>
     <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="" />
   </div>
-  PPJ (Programming Fundamentals in Java)
+  PPJ (Foundations of Java Programming)
 </h1>
 
 Repository that contains solutions to the exercises for the PPJ (Foundations of Java Programming) Java practical classes, taught by Le Tuong during studies on [PJAIT](https://www.pja.edu.pl/en/).
